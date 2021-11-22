@@ -1,0 +1,96 @@
+ ~/projects/MAI-IR  on main ?2 ................... INT  MAI-IR py  at 20:20:20
+> python -m wikiextractor.WikiExtractor --json ~/Downloads/ruwiki-latest-pages-articles.xml.bz2
+INFO: Preprocessing '/Users/samvel/Downloads/ruwiki-latest-pages-articles.xml.bz2' to collect template definitions: this may take some time.
+INFO: Preprocessed 100000 pages
+INFO: Preprocessed 200000 pages
+INFO: Preprocessed 300000 pages
+INFO: Preprocessed 400000 pages
+INFO: Preprocessed 500000 pages
+INFO: Preprocessed 600000 pages
+INFO: Preprocessed 700000 pages
+INFO: Preprocessed 800000 pages
+INFO: Preprocessed 900000 pages
+INFO: Preprocessed 1000000 pages
+INFO: Preprocessed 1100000 pages
+INFO: Preprocessed 1200000 pages
+INFO: Preprocessed 1300000 pages
+INFO: Preprocessed 1400000 pages
+INFO: Preprocessed 1500000 pages
+INFO: Preprocessed 1600000 pages
+INFO: Preprocessed 1700000 pages
+INFO: Preprocessed 1800000 pages
+INFO: Preprocessed 1900000 pages
+INFO: Preprocessed 2000000 pages
+INFO: Preprocessed 2100000 pages
+INFO: Preprocessed 2200000 pages
+INFO: Preprocessed 2300000 pages
+INFO: Preprocessed 2400000 pages
+INFO: Preprocessed 2500000 pages
+INFO: Preprocessed 2600000 pages
+INFO: Preprocessed 2700000 pages
+INFO: Preprocessed 2800000 pages
+INFO: Preprocessed 2900000 pages
+INFO: Preprocessed 3000000 pages
+INFO: Preprocessed 3100000 pages
+INFO: Preprocessed 3200000 pages
+INFO: Preprocessed 3300000 pages
+INFO: Preprocessed 3400000 pages
+INFO: Preprocessed 3500000 pages
+INFO: Preprocessed 3600000 pages
+INFO: Preprocessed 3700000 pages
+INFO: Preprocessed 3800000 pages
+INFO: Preprocessed 3900000 pages
+INFO: Preprocessed 4000000 pages
+INFO: Preprocessed 4100000 pages
+INFO: Preprocessed 4200000 pages
+INFO: Preprocessed 4300000 pages
+INFO: Preprocessed 4400000 pages
+INFO: Preprocessed 4500000 pages
+INFO: Preprocessed 4600000 pages
+INFO: Preprocessed 4700000 pages
+INFO: Preprocessed 4800000 pages
+INFO: Preprocessed 4900000 pages
+INFO: Loaded 184647 templates in 896.7s
+INFO: Starting page extraction from /Users/samvel/Downloads/ruwiki-latest-pages-articles.xml.bz2.
+INFO: Using 11 extract processes.
+INFO: Extracted 100000 articles (1224.9 art/s)
+INFO: Extracted 200000 articles (1976.9 art/s)
+INFO: Extracted 300000 articles (3209.9 art/s)
+INFO: Extracted 400000 articles (2378.5 art/s)
+INFO: Extracted 500000 articles (2592.4 art/s)
+INFO: Extracted 600000 articles (2594.1 art/s)
+INFO: Extracted 700000 articles (2402.6 art/s)
+INFO: Extracted 800000 articles (2264.8 art/s)
+INFO: Extracted 900000 articles (2176.6 art/s)
+INFO: Extracted 1000000 articles (2388.3 art/s)
+INFO: Extracted 1100000 articles (2312.5 art/s)
+INFO: Extracted 1200000 articles (2327.7 art/s)
+INFO: Extracted 1300000 articles (2556.7 art/s)
+INFO: Extracted 1400000 articles (2513.4 art/s)
+INFO: Extracted 1500000 articles (2372.6 art/s)
+INFO: Extracted 1600000 articles (2216.4 art/s)
+INFO: Extracted 1700000 articles (2495.4 art/s)
+INFO: Extracted 1800000 articles (2349.6 art/s)
+INFO: Extracted 1900000 articles (2325.4 art/s)
+INFO: Extracted 2000000 articles (2337.8 art/s)
+INFO: Extracted 2100000 articles (2279.3 art/s)
+INFO: Extracted 2200000 articles (2296.8 art/s)
+INFO: Extracted 2300000 articles (2380.9 art/s)
+INFO: Extracted 2400000 articles (2616.6 art/s)
+INFO: Extracted 2500000 articles (2918.7 art/s)
+INFO: Extracted 2600000 articles (3155.8 art/s)
+INFO: Extracted 2700000 articles (2697.5 art/s)
+INFO: Extracted 2800000 articles (2498.5 art/s)
+INFO: Extracted 2900000 articles (2701.1 art/s)
+INFO: Extracted 3000000 articles (2616.3 art/s)
+INFO: Extracted 3100000 articles (2537.1 art/s)
+INFO: Extracted 3200000 articles (2693.8 art/s)
+INFO: Extracted 3300000 articles (2215.4 art/s)
+INFO: Extracted 3400000 articles (2186.5 art/s)
+INFO: Extracted 3500000 articles (2183.1 art/s)
+INFO: Extracted 3600000 articles (2129.2 art/s)
+INFO: Extracted 3700000 articles (2207.7 art/s)
+INFO: Extracted 3800000 articles (2175.6 art/s)
+INFO: Extracted 3900000 articles (2184.7 art/s)
+INFO: Finished 11-process extraction of 3938068 articles in 1676.1s (2349.6 art/s)
+
